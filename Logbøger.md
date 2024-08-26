@@ -1,7 +1,4 @@
-# Informatik 
-Dato 16/08-2024
-
-Opg 1: Logbog
+#Logbog: Dato 16/08-2024
 
 - Analyse af Tellodronen som it system
 
