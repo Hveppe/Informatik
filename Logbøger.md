@@ -18,6 +18,7 @@
 - Idegenerering til måder at kontroller Tello Dronen
 
   - Brainstom:
+    
   ![image](https://github.com/user-attachments/assets/e6b926c6-c63b-4cfd-b3ca-cd8604824a0e)
 
   
