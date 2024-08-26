@@ -16,4 +16,6 @@
 ### Logbog: Dato 16/08-2024
 
 - Idegenerering til måder at kontroller Tello Dronen
+
+  <img width="402" alt="image" src="https://github.com/user-attachments/assets/d80f5738-79ce-4608-b760-894bee526594">
   
