@@ -1,3 +1,5 @@
+# Forløb 1: Tello Drone
+
 ### Logbog: Dato 16/08-2024
 
 - Analyse af Tellodronen som it system
@@ -11,7 +13,7 @@
   - Lag 3: Datalaget:
     Datalaget opvarer data fra sensorerne og sender dem til logiklaget for beslutningtagning
 
-# Logbog: Dato 16/08-2024
+### Logbog: Dato 16/08-2024
 
 - Idegenerering til måder at kontroller Tello Dronen
   
