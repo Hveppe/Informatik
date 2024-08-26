@@ -17,7 +17,10 @@
 
 - Idegenerering til måder at kontroller Tello Dronen
 
-  - Inovation (4p modellen) 
+  - Inovation (4p modellen)
+ 
+    ![image](https://github.com/user-attachments/assets/805bb391-ede2-4ab6-9611-e7136aed2255)
+
 
   - Brainstom:
     
