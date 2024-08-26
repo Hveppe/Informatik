@@ -17,5 +17,6 @@
 
 - Idegenerering til måder at kontroller Tello Dronen
 
-  <img width="402" alt="image" src="https://github.com/user-attachments/assets/d80f5738-79ce-4608-b760-894bee526594">
+  ![image](https://github.com/user-attachments/assets/e6b926c6-c63b-4cfd-b3ca-cd8604824a0e)
+
   
