@@ -10,4 +10,8 @@
 
   - Lag 3: Datalaget:
     Datalaget opvarer data fra sensorerne og sender dem til logiklaget for beslutningtagning
+
+  # Logbog: Dato 16/08-2024
+
+  - Idegenerering til måder at kontroller Tello Dronen
   
